@@ -1,1 +1,26 @@
-[]
+[
+    {
+        "email": "shahd@gmail.com",
+        "phone": "01012345678",
+        "password": "Shahd123",
+        "name": "Shahd Khedr",
+        "customer_level": "Premium",
+        "orders_count": 5
+    },
+    {
+        "email": "mariam@gmail.com",
+        "phone": "01098765432",
+        "password": "Mariam123",
+        "name": "Mariam Ahmed",
+        "customer_level": "Regular",
+        "orders_count": 2
+    },
+    {
+        "email": "habiba@gmail.com",
+        "phone": "01123456789",
+        "password": "Habiba123",
+        "name": "Habiba Mohamed",
+        "customer_level": "Regular",
+        "orders_count": 1
+    }
+]
