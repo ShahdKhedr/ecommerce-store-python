@@ -1,0 +1,52 @@
+[
+    {
+        "code": "P00001",
+        "name": "Wireless Mouse",
+        "price": 250,
+        "stock": 30,
+        "product_type": "Physical",
+        "weight": 0.3
+    },
+    {
+        "code": "P00002",
+        "name": "Mechanical Keyboard",
+        "price": 950,
+        "stock": 15,
+        "product_type": "Physical",
+        "weight": 1.1
+    },
+    {
+        "code": "D00001",
+        "name": "Python Programming E-Book",
+        "price": 150,
+        "stock": 999,
+        "product_type": "Digital",
+        "download_link": "example.com/pybook"
+    },
+    {
+        "code": "D00002",
+        "name": "Photo Editing Software License",
+        "price": 400,
+        "stock": 500,
+        "product_type": "Digital",
+        "download_link": "example.com/editpro"
+    },
+    {
+        "code": "S00001",
+        "name": "Laptop Repair Service",
+        "price": 300,
+        "stock": 10,
+        "product_type": "Service",
+        "duration": 2,
+        "provider": "TechFix Center"
+    },
+    {
+        "code": "S00002",
+        "name": "1-on-1 Programming Tutoring",
+        "price": 200,
+        "stock": 20,
+        "product_type": "Service",
+        "duration": 1,
+        "provider": "CodeMentor"
+    }
+]
